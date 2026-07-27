@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently building AI-powered SaaS products and automation systems<br><br>🚀 Founder & Builder at KanyouAI<br><br>🤖 AI Engineer focused on AI Agents, LLMs, Automation, and Full-Stack Development<br><br>🌱 Currently learning Agentic AI, System Design, and Scalable SaaS Architecture<br><br>💼 Open to collaborations on AI, SaaS, Automation, and Business Solutions<br><br>💬 Ask me about AI Agents, n8n, Make.com, Full-Stack Development, and SaaS<br><br>⚡ Fun fact: I build businesses, products, and AI systems from scratch
+ I’m currently building AI-powered SaaS products and automation systems<br><br>🚀 Founder & Builder at KanyouAI<br><br>🤖 AI Engineer focused on AI Agents, LLMs, Automation, and Full-Stack Development<br><br>🌱 Currently learning Agentic AI, System Design, and Scalable SaaS Architecture<br><br>💼 Open tocollaborations on AI, SaaS, Automation, and Business Solutions<br><br>💬 Ask me about AI Agents, n8n, Make.com, Full-Stack Development, and SaaS<br><br>⚡ Fun fact: I build businesses, products, and AI systems from scratch
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=ibrahembuilds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<
