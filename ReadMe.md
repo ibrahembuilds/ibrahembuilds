@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏗️ I build custom software systems, SaaS products, and AI-powered tools that solve real business problems.<br><br>🚀 Founder & Systems Builder at KanyouAI<br><br>⚙️ Focused on Business Systems, SaaS Development, AI Automation, and Internal Tools<br><br>🤖 Building with AI Agents, LLMs, APIs, n8n, Make.com, React, Next.js, TypeScript, Python, and Supabase<br><br>🌱 Currently going deeper into System Design, Agentic AI, Scalable SaaS Architecture, and AI Engineering<br><br>💼 I work with businesses to turn manual processes, spreadsheets, and inefficient workflows into custom software and automated systems<br><br>🤝 Open to collaborations on SaaS, AI Products, Business Systems, Automation, and Developer Tools<br><br>💬 Ask me about building SaaS products, custom CRMs, AI agents, internal tools, automation systems, and full-stack applications<br><br>⚡ Fun fact: I enjoy taking an idea from problem → system → product → real-world deployment<br><br>🌐 Building at KanyouAI
+🏗️ I build custom software systems, SaaS products, and AI-powered tools that solve real business problems.<br><br>🚀 Founder & Systems Builder at KanyouAI<br><br>⚙️ Focused on Business Systems, SaaS Development, AI Automation, and Internal Tools<br><br>🤖 Building with AI Agents, LLMs, APIs, n8n, Make.com, React, Next.js, TypeScript, Python, and Supabase<br><br>🌱 Currently going deeper into System Design, Agentic AI, Scalable SaaS Architecture, and AI Engineering<br><br>💼 I work with businesses to turn manual processes, spreadsheets, and inefficient workflows into custom software and automated systems<br><br>🤝 Open to collaborations on SaaS, AI Products, Business Systems, Automation, and Developer Tools<br><br>💬 Ask me about building SaaS products, custom CRMs, AI agents, internal tools, automation systems, and full-stack applications<br><br>⚡ Fun fact: I enjoy taking an idea from problem → system → product → real-world deployment<br><br>🌐 Buildi KanyouAI
 
 
 ## 🌐 Socials:
@@ -12,7 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=ibrahembuilds&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahembuilds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username= ibrahembuilds&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
